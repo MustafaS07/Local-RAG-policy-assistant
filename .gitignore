@@ -1,0 +1,7 @@
+venv310/
+venv311/
+chroma_db/
+__pycache__/
+*.pyc
+.streamlit/
+.env
