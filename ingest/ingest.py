@@ -6,6 +6,7 @@ from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import OllamaEmbeddings
 
 # Load document
+#
 loader = TextLoader("data/policy.txt")
 documents = loader.load()
 
